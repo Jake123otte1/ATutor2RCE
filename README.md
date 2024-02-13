@@ -13,6 +13,9 @@ positional arguments:
 options:
   -h, --help  show this help message and exit
 ```
+## Output
+A successful execution of the script should look like this:
+![ATutor2RCE Output](atutor2rce_output.png)
 ## Caveats
 I strongly recommend reviewing the source code if you experience any issues and diagnosing your problem as you see fit. The following is a list of assumptions the script makes:
 - The first user in the AT_Members database is a teacher and has test import privileges.
